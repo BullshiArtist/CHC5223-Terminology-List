@@ -8,7 +8,7 @@
 这个项目旨在为CHC5223(数据结构与算法)课程创建术语表。该术语表将收集Leon Liang教授在课堂上提到的所有术语和重要词汇。
 
 ## 如何使用
-前往[Releases](./releases)并下载最新的 .xlsx 文档，每周的术语都会在一个单独的表格中。
+前往[Releases](https://github.com/BullshiArtist/CHC5223-Terminology-List/releases)并下载最新的 .xlsx 文档，每周的术语都会在一个单独的表格中。
 
 ## License
 该项目采用 [MIT](./LICENSE) 许可证。
